@@ -1,6 +1,8 @@
 import random
+import time
 print("play at your own risk ")
 user=input("enter the your name :")
+time.sleep(5)
 print("hi",user,"welcome to russian roulette")
 reason=input("what is the reason your palying this game:")
 therepear=print("hi i am the general i welcome to russia")
@@ -18,7 +20,7 @@ print("any last wishes ")
 wishes=input("enter your last wish :")
 if wishes:
     print("i donot care about your last wishes ")
-    print("be a man stop crying face your problme this world doesnot require losser stand up:")
+    print("be a man stop crying face your problme this world doesnot require losser sostand up:")
     print("stand up i said ")
 
 print("now hold the revoller at your head ")
