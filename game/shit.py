@@ -1,5 +1,8 @@
 import random
 import time
+import qrcode
+qr=qrcode.make("welcome my friend ☠️")
+qr.save("qr.jpg")
 print("play at your own risk ")
 user=input("enter the your name :")
 time.sleep(5)
